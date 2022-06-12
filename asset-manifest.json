@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magic-memory/static/css/main.832fc680.css",
+    "main.js": "/magic-memory/static/js/main.48209971.js",
+    "static/media/Raleway-ExtraLight.ttf": "/magic-memory/static/media/Raleway-ExtraLight.18e9b7b36143a965037e.ttf",
+    "static/media/Raleway-Light.ttf": "/magic-memory/static/media/Raleway-Light.f25e9b3a1fc8e48e53f5.ttf",
+    "static/media/Raleway-Medium.ttf": "/magic-memory/static/media/Raleway-Medium.1af9f1e9f3fd4766df83.ttf",
+    "static/media/Raleway-Regular.ttf": "/magic-memory/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
+    "static/media/Raleway-SemiBold.ttf": "/magic-memory/static/media/Raleway-SemiBold.243af299ad3631bfc369.ttf",
+    "static/media/Raleway-ExtraBold.ttf": "/magic-memory/static/media/Raleway-ExtraBold.ac7bcb8a0f4abc1d6591.ttf",
+    "static/media/Raleway-Bold.ttf": "/magic-memory/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
+    "static/media/Raleway-Thin.ttf": "/magic-memory/static/media/Raleway-Thin.537e4a263280ac058bf9.ttf",
+    "static/media/Raleway-Black.ttf": "/magic-memory/static/media/Raleway-Black.eef1ff812c4eced3a276.ttf",
+    "index.html": "/magic-memory/index.html",
+    "main.832fc680.css.map": "/magic-memory/static/css/main.832fc680.css.map",
+    "main.48209971.js.map": "/magic-memory/static/js/main.48209971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.832fc680.css",
+    "static/js/main.48209971.js"
+  ]
+}
