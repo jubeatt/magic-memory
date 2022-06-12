@@ -7,6 +7,8 @@
 - master（自己想的版本）
 - review（課程解答的版本）
 
+網站連結：https://jubeatt.github.io/magic-memory/
+
 ## 遊戲介紹
 
 翻出兩張同樣的牌，直到所有卡片翻完為止。
